@@ -14,6 +14,8 @@ If you've never programmed before,let's start off by picking up a language to wr
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Great resource for learning web technologies and has you learning and later on building projects! (Has an in browser text editor)
 * [SoloLearn](https://www.sololearn.com/) - This web site has small interactive questions to test you after the lesson which is nice. The Nice thing about this organization is that it has offline apps that you can download to learn your lessons on the go!
 
+## Software Concepts
+* [Design Patterns](https://sourcemaking.com/design_patterns) - A good resource to explain software design patterns and how they are used to improve code reuse, understandability and efficiency.
 
 
 ## Command Line
@@ -33,13 +35,13 @@ If you've never programmed before,let's start off by picking up a language to wr
 
 ## API List
 * https://apilist.fun/
+* https://any-api.com/
 
 
 ## Miscellaneous Skills
 * https://betterexplained.com/cheatsheet/ (A handful of useful tutorials! In particular Math is nice with this one
 if you need to refer to a math source or if you don't come from a STEM background)
 
-## On Campus Resources
 
 
 ## Technical Development

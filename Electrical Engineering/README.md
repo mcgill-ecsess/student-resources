@@ -21,3 +21,6 @@ If you're a new EE student or simply just interested in electrical engineering p
 
 
 ## Project Ideas
+* [Instructables](https://www.instructables.com/technology/) - This is a great DIY website that provides tutorials on how to make some neat electronic gadgets!
+
+* [Adafruit](https://learn.adafruit.com/) - This website sells a bunch of great electronics but also gives great tutorials on what you can do with those electronics
