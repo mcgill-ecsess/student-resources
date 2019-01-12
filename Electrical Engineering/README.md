@@ -10,7 +10,7 @@ If you're a new EE student or simply just interested in electrical engineering p
 * [Circuits Component tutorial](https://www.youtube.com/watch?v=fGI9d0CjI8s&index=1&list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB) - This videos resource covers electrical theory and tutorials on electronic components
 
 ## Signal Processing
-* [Signal processing 101](https://signalprocessingsociety.org/our-story/signal-processing-101) - This is a great source for learning about signals
+* [Signal processing 101](https://signalprocessingsociety.org/our-story/signal-processing-101) - This is a great source for learning about signals basics and may help you with ecse 206
 
 
 ## On Campus Resources

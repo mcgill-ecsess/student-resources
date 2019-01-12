@@ -6,6 +6,13 @@ If you've never programmed before,let's start off by picking up a language to wr
 
 * Java, C, Python, Javascript ,C++, C# and many more!
 
+# :heavy_plus_sign: :heavy_minus_sign: Math Resources :heavy_division_sign: :heavy_multiplication_x:
+
+Bit rusty at algebra? Don't remember the quotient rule, poisson distribution or first order differential equations? We got you :sunglasses:
+
+* [Paul's Math Notes](http://tutorial.math.lamar.edu/) - This is a resource that covers Calculus and Ordinary differential Equations. You can download Pdfs of all the notes so this is a great way to find great explanation to math concepts will see in U0-U2
+
+* [betterExplained](https://betterexplained.com/cheatsheet/) - This site extends beyond calculus and has some notes on linear, euler, fourier transforms, stats and many other mathematical topics.
 
 
 ## Programming Tutorials
