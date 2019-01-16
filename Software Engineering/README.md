@@ -1,4 +1,4 @@
-# Software Engineering Resources 
+# :computer: Software Engineering Resources 
 
 
 ## Programming Languages
@@ -51,6 +51,13 @@ if you need to refer to a math source or if you don't come from a STEM backgroun
 
 
 
-## Technical Development
-* [Leetcode](https://leetcode.com/) - Great for interview practice questions
-* [Geeks for geek](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms) - Great for algorithm review and interview questions (Additionally it has CS theory concepts and language tutorials)
+## Software Interviews
+
+* Cracking the Coding (Or PM) Interview Book by Gayle Laakmann McDowell
+
+* [Leetcode](https://leetcode.com/) - Great for interview practice questions to help you tackle those algorithms. Has Contests to test your problem solving skills!
+
+* [HackerRank](https://www.hackerrank.com/) - An alternative site for interview practice questions. Has more wordy situation problems in comparison to leetcode. Has competitions to test your problem solving skills!
+
+* [Geeks for geek](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms) - Great for algorithm review (Additionally it has CS theory concepts and language tutorials)
+
