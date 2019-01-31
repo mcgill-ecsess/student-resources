@@ -20,7 +20,6 @@ Everything's all about computers! Ever wonder how they function or how each comp
 * [CS crash course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - Crash course provides some great videos for a quick rundown on CS concepts 
 
 
-
 #  Organizations :family:
 Need to get some hands on experience outside the classroom? :facepunch: Here are some organizations around campus that'll help you get stuff done!
 
